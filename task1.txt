@@ -1,0 +1,7 @@
+Task 1
+describtion
+uml diagram
+pseudo code
+text pseudo code - desktopcheck
+source course
+text source cocurse
