@@ -1,0 +1,9 @@
+Variable 
+for function name
+(identifiers)
+- meaning
+- alpabhet start
+- can contant digits and _
+- different than key board
+		What is keyboard in py?
+		How many keyboards in py?

@@ -1,0 +1,12 @@
+System boundary
+A system boundary is a rectangular that you can draw in use case  diagram to separate  the use cases that are internal
+to a system from the actors that are external to the system. 
+
+Use case
+A use case describes a function that a system performs to achieve the users goal . A user case must produce/provie an 
+observable result that is of value to the user of the system.
+
+Actor
+An actor represents a role of user that interacts with the system that you are modeling. the user can be human, an 
+organsation a machine or external system.
+It can be a person, another system or organsation.
